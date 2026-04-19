@@ -113,9 +113,8 @@ jupyter notebook ML.ipynb
 
 ## 👤 Author
 
-**Vansh**
+**Shivraj**
 B.Tech Student — Manav Rachna University
-Course: Foundational Course in Entrepreneurship / ML Lab
 
 ---
 
